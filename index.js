@@ -1,5 +1,5 @@
-const SHA3 = require('keccakjs')
-const secp256k1 = require('secp256k1')
+const SHA3 = require('keccakjs-browseronly')
+const secp256k1 = require('secp256k1/js')
 const assert = require('assert')
 const rlp = require('rlp')
 const BN = require('bn.js')
