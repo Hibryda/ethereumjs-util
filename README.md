@@ -10,6 +10,7 @@
 
 A collection of utility functions for ethereum. It can be used in node.js or can be in the browser with browserify.
 *This version is forked and adjusted to work in NW.js. Keccakjs fails to detect browser environment, thus keccakjs dependency was replaced by keccakjs-browseronly one. Also, for convenience rather than out of real need secp is forcefully set to use js fallback.*
+_Remember, it's just workaround. Do not use this in production._
 
 # API
 [./docs/](./docs/index.md)
