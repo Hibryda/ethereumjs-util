@@ -1,5 +1,5 @@
 {
-  "name": "ethereumjs-util",
+  "name": "ethereumjs-util-nwjs",
   "version": "4.5.0",
   "description": "a collection of utility functions for Ethereum",
   "main": "index.js",
